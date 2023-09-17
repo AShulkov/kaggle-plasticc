@@ -20,4 +20,4 @@ Possible additional features:
 - Normalized amplitude (range)
 - Normalized MAD (median of deviation)
 - Fraction of data points beyond 1 STD
-- Skew for `flux`
+- Skew (spstat.skew) for `flux`
