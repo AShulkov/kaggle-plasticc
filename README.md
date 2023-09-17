@@ -9,7 +9,7 @@ What else could be done:
 - use logarithms for `hostgal_photoz`, `hostgal_photoz_err`, `mwebv`
 - convert `flux` to magnitude (-2.5*log10(`flux`)), use all datapoints regardless of `detected` value
 
-Possible additional features:
+Features to extract from time-series data:
 - Number of peaks
 - Derivatives: max slope, min slope
 - Range (normalized)
